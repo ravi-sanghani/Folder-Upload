@@ -1,0 +1,8 @@
+git clone <Paste git link>
+paste file in that folder
+cd enter
+ls
+git add .
+git commit -m "added a new file"
+git config --global user.email "<Email>"
+git push
